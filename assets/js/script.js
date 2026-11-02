@@ -323,12 +323,12 @@
   const lightboxCount = document.querySelector(".lightbox-count");
   let galleryIndex = 0;
   const galleryImages = [
-    "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1400&q=85",
-    "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=85",
-    "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=1200&q=85",
-    "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=1400&q=85",
-    "https://images.unsplash.com/photo-1546483875-ad9014c88eba?auto=format&fit=crop&w=1200&q=85",
-    "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=85",
+    "assets/image/IMG_8165.jpg",
+    "assets/image/IMG_8170.jpg",
+    "assets/image/IMG_8176.jpg",
+    "assets/image/IMG_8186.jpg",
+    "assets/image/IMG_8181.jpg",
+    "assets/image/IMG_8172.jpg",
   ];
   // Update the viewer image and its position counter.
   const showGalleryImage = (index) => {

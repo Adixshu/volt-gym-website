@@ -222,16 +222,16 @@
 
 /* Featured photography, theme controls, and gallery grid adjustments. */
 .hero-slide:nth-child(4) {
-  background-image: url("https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1800&q=85");
+  background-image: url("../image/IMG_8176.jpg");
 }
 .hero-slide:nth-child(5) {
-  background-image: url("https://images.unsplash.com/photo-1579758629938-03607ccdbaba?auto=format&fit=crop&w=1800&q=85");
+  background-image: url("../image/IMG_8186.jpg");
 }
 .gallery-five {
-  background-image: url("https://images.unsplash.com/photo-1546483875-ad9014c88eba?auto=format&fit=crop&w=800&q=85");
+  background-image: url("../image/IMG_8181.jpg");
 }
 .gallery-six {
-  background-image: url("https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=800&q=85");
+  background-image: url("../image/IMG_8172.jpg");
 }
 .theme-toggle {
   width: 36px;
@@ -494,8 +494,7 @@
   padding: 21px;
   background:
     linear-gradient(135deg, rgba(229, 9, 20, 0.2), rgba(29, 31, 32, 0.9)),
-    url("https://images.unsplash.com/photo-1524666041070-9c8763b5a3f2?auto=format&fit=crop&w=700&q=80")
-      center/cover;
+    url("../image/IMG_8172.jpg") center/cover;
   text-decoration: none;
   border: 1px solid rgba(229, 9, 20, 0.38);
   transition:
@@ -849,17 +848,17 @@
 }
 .gallery-large {
   grid-row: span 2;
-  background-image: url("https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1000&q=85");
+  background-image: url("../image/IMG_8165.jpg");
 }
 .gallery-two {
-  background-image: url("https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=800&q=85");
+  background-image: url("../image/IMG_8170.jpg");
 }
 .gallery-three {
-  background-image: url("https://images.unsplash.com/photo-1517963879433-6ad2b056d5d3?auto=format&fit=crop&w=800&q=85");
+  background-image: url("../image/IMG_8176.jpg");
 }
 .gallery-four {
   grid-column: 2 / 4;
-  background-image: url("https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=1000&q=85");
+  background-image: url("../image/IMG_8186.jpg");
 }
 .form-row {
   display: grid;
@@ -904,8 +903,7 @@
   padding: 20px;
   background:
     linear-gradient(135deg, rgba(229, 9, 20, 0.24), rgba(29, 31, 32, 0.9)),
-    url("https://images.unsplash.com/photo-1524666041070-9c8763b5a3f2?auto=format&fit=crop&w=700&q=80")
-      center/cover;
+    url("../image/IMG_8172.jpg") center/cover;
   text-decoration: none;
   display: flex;
   flex-direction: column;
@@ -1064,13 +1062,13 @@
   transform: scale(1);
 }
 .hero-slide:nth-child(1) {
-  background-image: url("https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1800&q=85");
+  background-image: url("../image/IMG_8165.jpg");
 }
 .hero-slide:nth-child(2) {
-  background-image: url("https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1800&q=85");
+  background-image: url("../image/IMG_8170.jpg");
 }
 .hero-slide:nth-child(3) {
-  background-image: url("https://images.unsplash.com/photo-1517963879433-6ad2b056d5d3?auto=format&fit=crop&w=1800&q=85");
+  background-image: url("../image/IMG_8181.jpg");
 }
 .hero-controls {
   position: absolute;
@@ -2285,12 +2283,12 @@ h2 em {
 .gallery-seven {
   grid-column: 2;
   grid-row: 3;
-  background-image: url("https://images.unsplash.com/photo-1558611848-73f7eb4001a1?auto=format&fit=crop&w=1000&q=85");
+  background-image: url("../image/IMG_8170.jpg");
 }
 .gallery-eight {
   grid-column: 3;
   grid-row: 3;
-  background-image: url("https://images.unsplash.com/photo-1576678927484-cc907957088c?auto=format&fit=crop&w=1000&q=85");
+  background-image: url("../image/IMG_8176.jpg");
 }
 html.light-theme .section-heading p:last-child,
 html.light-theme .about-copy > p:not(.lead),
@@ -2389,10 +2387,10 @@ html.light-theme .gallery-item span {
   }
 }
 .hero-slide:nth-child(3) {
-  background-image: url("https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=1800&q=85");
+  background-image: url("../image/IMG_8186.jpg");
 }
 .gallery-three {
-  background-image: url("https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=800&q=85");
+  background-image: url("../image/IMG_8172.jpg");
 }
 html.light-theme .section,
 html.light-theme .section h2,
